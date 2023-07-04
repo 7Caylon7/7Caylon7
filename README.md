@@ -12,6 +12,8 @@
   <img align="center" alt = "JavaScript" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img align="center" alt = "React" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt = "MySQL" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="center" alt = "PHP" src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  
 </div> </br>
 
 Atualmente trabalho como Desenvolvedor Web na ASTIC PROEG, especificamente no setor de projetos na área de Front end. Além de estar 
