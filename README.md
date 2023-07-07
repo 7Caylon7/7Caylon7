@@ -16,7 +16,7 @@
   
 </div> </br>
 
-Atualmente trabalho como Desenvolvedor Web na ASTIC PROEG, especificamente no setor de projetos na área de Front end. Além de estar 
-cursando o 6° semestre do curso de Engenharia da Computação pela Universidade Federal do Pará</br>
+Atualmente trabalho como Desenvolvedor Web na ASTIC PROEG. Além de estar 
+cursando o 7° semestre do curso de Engenharia da Computação pela Universidade Federal do Pará</br>
 Meu foco ultimamente tem sido o JavaScript, visto que eu já desenvolvo páginas estáticas com HTML e CSS a algum tempo.</br>
 A seguir pretendo me especializar em React e React Native, com enfase em desenvolvimento mobile.</br>
