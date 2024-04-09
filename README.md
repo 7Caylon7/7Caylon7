@@ -18,7 +18,7 @@
   
 </div> </br>
 
-Atualmente trabalho como Desenvolvedor Web na ASTTIC PROEG. Além de estar 
-cursando o 8° semestre do curso de Engenharia da Computação pela Universidade Federal do Pará</br>
+<h3>Atualmente trabalho como Desenvolvedor Web na ASTTIC PROEG. Além de estar 
+cursando o 8° semestre do curso de Engenharia da Computação pela Universidade Federal do Pará.</br>
 Meu foco ultimamente tem sido o Vue.js, visto que eu já desenvolvo páginas estáticas com HTML, CSS e JS a algum tempo.</br>
-A seguir pretendo me especializar em React e React Native, com enfase em desenvolvimento mobile.</br>
+A seguir pretendo me especializar em React e React Native, com enfase em desenvolvimento mobile.</br></h3>
