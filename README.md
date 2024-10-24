@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caylon-solon-monte-costa-10624823b/)
 [![Outlook](	https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:caylonsolon@hotmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ca_ylon/)
+[![Site](https://portfolio-caylon-solon-monte-costas-projects.vercel.app)
 
 ![Caylon GitHub stats](https://github-readme-stats.vercel.app/api?username=7Caylon7&show_icons=true&theme=gruvbox)
 
@@ -18,5 +19,8 @@
   
 </div> </br>
 
-<h3>Atualmente trabalho como Desenvolvedor Web na ASTTIC PROEG.</br>Cursando o 8° semestre do curso de Engenharia da Computação pela Universidade Federal do Pará.</br>
-Meu foco ultimamente tem sido o Vue.js, visto que eu já desenvolvo páginas estáticas com HTML, CSS e JS a algum tempo. A seguir pretendo me especializar em React e React Native, com enfase em desenvolvimento mobile.</br></h3>
+<h3>Web developer with 3 years of experience, Computer Engineering course in the 8th semester. I have experience with fullstack development, including JavaScript, Vue.js, CSS, HTML, PHP, Node.js and Python technologies. On the backend, I work with APIs and databases, such as PostgreSQL, and I also have experience with frameworks such as Django and Bootstrap.
+
+Currently, I am interning at ASTTIC-UFPA, where I participate in systems maintenance and development. Familiar with agile methodologies (Scrum and Kanban), I have intermediate English skills, and experience in customer service in technical support and remote class recordings.
+
+I'm also self-taught in Vue.js and I'm always looking to learn new technologies to improve myself.</br></h3>
