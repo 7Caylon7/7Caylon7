@@ -6,7 +6,7 @@
 
 ![Caylon GitHub stats](https://github-readme-stats.vercel.app/api?username=7Caylon7&show_icons=true&theme=gruvbox)
 
-### Tecnologias que eu uso no meu dia a dia:
+### Technologies that I use in my daily life:
 <div style = "display: inline_block"></br>
   <img align="center" alt = "Vercel" src = "https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img align="center" alt = "Node.Js" src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
