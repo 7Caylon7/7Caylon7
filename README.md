@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caylon-solon-monte-costa-10624823b/)
 [![Outlook](	https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:caylonsolon@hotmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ca_ylon/)
-[![Website](https://img.shields.io/website?)](https://portfolio-solon.vercel.app)
+[![Website](https://img.shields.io/website?url=https://portfolio-solon.vercel.app)](https://portfolio-solon.vercel.app)
 
 ![Caylon GitHub stats](https://github-readme-stats.vercel.app/api?username=7Caylon7&show_icons=true&theme=gruvbox)
 
