@@ -4,8 +4,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ca_ylon/)
 [![Website](https://img.shields.io/website?url=https://portfolio-solon.vercel.app)](https://new-portfolio-caylon-solon-monte-costas-projects.vercel.app/)
 
-![Caylon GitHub stats](https://github-readme-stats.vercel.app/api?username=7Caylon7&show_icons=true&theme=gruvbox)
-
 ### Technologies that I use in my daily life:
 <div style = "display: inline_block"></br>
   <img align="center" alt = "Vercel" src = "https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
